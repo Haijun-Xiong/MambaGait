@@ -103,6 +103,7 @@ If you find our paper and code useful for your research, please consider giving 
 ```BibTeX
 @article{xiong2025mambagait,
   title = {MambaGait: Gait recognition approach combining explicit representation and implicit state space model},
+  author = {Xiong, Haijun and Feng, Bin and Wang, Bang and Wang, Xinggang and Liu, Wenyu},
   journal = {Image and Vision Computing},
   volume = {161},
   pages = {105597},
