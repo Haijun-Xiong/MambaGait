@@ -26,7 +26,7 @@ Gait recognition aims to identify pedestrians based on their unique walking patt
 
 ## Framework
 
-![Framework of GaitGS](./assets/framework.png)
+![Framework of GaitGS](./assets/framework.jpg)
 
 
 ## Results
